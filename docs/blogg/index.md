@@ -1,0 +1,3 @@
+# Blogg
+
+<Posts page="blogg"/>
